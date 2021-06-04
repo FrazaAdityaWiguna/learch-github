@@ -1,4 +1,4 @@
 Learn GitHub
 1. Belajar GitHub
-2. Belajar Branch
+2. Belajar Fork
 Belajar GitHub dari WPU
