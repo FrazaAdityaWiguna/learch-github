@@ -2,7 +2,9 @@ Rencana Content BigDream
 
 - Membuat StartUp
  * Membuat website
+ * Mengorganisir memeber
 - Belajar React
 - Belajar PHP
 - Belajar Laravel
+  * Membuat toko online
 - Belajar ReactNative
