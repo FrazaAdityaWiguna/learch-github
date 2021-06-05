@@ -3,3 +3,5 @@ Rencana Content BigDream
 - Membuat StartuP
 - Belajar React
 - Belajar PHP
+- Belajar Laravel
+- Belajar ReactNative
