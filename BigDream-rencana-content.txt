@@ -2,8 +2,9 @@ Rencana Content BigDream
 
 - Membuat StartUp
  * Membuat website
- * Menambahkan new member
+ * Mengorganisir memeber
 - Belajar React
 - Belajar Laravel
   * Membuat toko online
+  * Membuat web rental mobil
 - Belajar ReactNative
