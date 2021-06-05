@@ -7,4 +7,5 @@ Rencana Content BigDream
 - Belajar PHP
 - Belajar Laravel
   * Membuat toko online
+  * Membuat web rental mobil
 - Belajar ReactNative
