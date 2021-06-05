@@ -4,7 +4,6 @@ Rencana Content BigDream
  * Membuat website
  * Mengorganisir memeber
 - Belajar React
-- Belajar PHP
 - Belajar Laravel
   * Membuat toko online
   * Membuat web rental mobil
